@@ -1,0 +1,273 @@
+Ttibar
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/libTibar.a normal i386
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005248F6720000000000000176
+t1380513394
+s374
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005248F49300000000000003B5
+t1380512915
+s949
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005248F49C000000000000019E
+t1380512924
+s414
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005248F49E000000000047C8A0
+t1380512926
+s4704416
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005248F49E0000000000133B60
+t1380512926
+s1260384
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005248F49F000000000004B000
+t1380512927
+s307200
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005248F4A0000000000088B570
+t1380512928
+s8959344
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005248F4A20000000000484860
+t1380512930
+s4737120
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib
+c000000005248F4BE0000000000205FF0
+t1380512958
+s2121712
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m
+c0000000052899CB7000000000000240B
+t1384750263
+s9227
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
+c0000000052899C4500000000000000FA
+t1384750149
+s250
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch
+c0000000052899C450000000000000053
+t1384750149
+s83
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/libzbar.a
+c0000000052899C4600000000002A2C04
+t1384750150
+s2763780
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/libTibar.a
+t2
+s0
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/Tibar.LinkFileList
+c000000005289A32A0000000000000118
+t1384751914
+s280
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o
+t1384751916
+s108996
+
+N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o
+t1384751916
+s4408
+
+N/var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch
+t1384751915
+s5430828
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6683bcaada39b841^efa9c4aada39b841^---0#1#1#--18"Check dependencies36"3FFD5677-165D-4A11-8EF5-FF38702291BB-
+
+CCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406444716.076048
+e406444716.693831
+r1
+xCompileC
+xbuild/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o
+x/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m
+d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiModule.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiProxy.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBase.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/defines.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiThreading.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiPublicAPI.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiEvaluator.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollContext.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/Ti.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollCallback.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollObject.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiUtils.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiDimension.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiColor.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/WebFont.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiFile.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBuffer.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBlob.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiHost.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/Bridge.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiStylesheet.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiApp.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollBridge.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/XHRBridge.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiRootViewController.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiControllerProtocols.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiViewProxy.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiUIView.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiAnimation.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiPoint.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/ListenerEntry.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/LayoutConstraint.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiGradient.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiRect.h
+d/Users/paper/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiViewTemplate.h
+o[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:217:19: [0m[0;1;35mwarning: [0m[1m
+o      unused variable 'custom' [-Wunused-variable][0m
+o                                NSDictionary *custom = [configure object...
+o[0;1;32m                                              ^
+o[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:273:11: [0m[0;1;35mwarning: [0m[1m
+o      instance method '-objetForKey:' not found (return type defaults to 'id')
+o      [-Wobjc-method-access][0m
+o                  [info objetForKey: UIImagePickerControllerOriginalImage];
+o[0;1;32m                        ^~~~~~~~~~~
+o[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:295:6: [0m[0;1;35mwarning: [0m[1m
+o      local declaration of 'reader' hides instance variable [-Wshadow-ivar][0m
+o    [reader dismissModalViewControllerAnimated: YES];
+o[0;1;32m     ^
+o[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:295:13: [0m[0;1;35mwarning: [0m[1m
+o      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o    [reader dismissModalViewControllerAnimated: YES];
+o[0;1;32m            ^
+o[0mIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:1:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch:4:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h:27:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h:24:
+oIn file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m
+o      method 'dismissModalViewControllerAnimated:' declared here[0m
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...
+o[0;1;32m^
+o[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:309:13: [0m[0;1;35mwarning: [0m[1m
+o      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o    [reader dismissModalViewControllerAnimated: YES];
+o[0;1;32m            ^
+o[0mIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:1:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch:4:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h:27:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h:24:
+oIn file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m
+o      method 'dismissModalViewControllerAnimated:' declared here[0m
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...
+o[0;1;32m^
+o[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:326:11: [0m[0;1;35mwarning: [0m[1m
+o      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o        [_reader dismissModalViewControllerAnimated: YES];
+o[0;1;32m                 ^
+o[0mIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:1:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch:4:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h:27:
+oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h:24:
+oIn file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m
+o      method 'dismissModalViewControllerAnimated:' declared here[0m
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...
+o[0;1;32m^
+o[0m6 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m202"[1mCompileC[0m build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o [1mClasses/TibarModule.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler369313acda39b841^a59eb1acda39b841^-5540"[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:217:19: [0m[0;1;35mwarning: [0m[1m      unused variable 'custom' [-Wunused-variable][0m                                NSDictionary *custom = [configure object...[0;1;32m                                              ^[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:273:11: [0m[0;1;35mwarning: [0m[1m      instance method '-objetForKey:' not found (return type defaults to 'id')      [-Wobjc-method-access][0m                  [info objetForKey: UIImagePickerControllerOriginalImage];[0;1;32m                        ^~~~~~~~~~~[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:295:6: [0m[0;1;35mwarning: [0m[1m      local declaration of 'reader' hides instance variable [-Wshadow-ivar][0m    [reader dismissModalViewControllerAnimated: YES];[0;1;32m     ^[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:295:13: [0m[0;1;35mwarning: [0m[1m      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m    [reader dismissModalViewControllerAnimated: YES];[0;1;32m            ^[0mIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:1:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch:4:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h:27:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h:24:In file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m      method 'dismissModalViewControllerAnimated:' declared here[0m- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...[0;1;32m^[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:309:13: [0m[0;1;35mwarning: [0m[1m      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m    [reader dismissModalViewControllerAnimated: YES];[0;1;32m            ^[0mIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:1:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch:4:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h:27:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h:24:In file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m      method 'dismissModalViewControllerAnimated:' declared here[0m- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...[0;1;32m^[0m[1m/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:326:11: [0m[0;1;35mwarning: [0m[1m      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m        [_reader dismissModalViewControllerAnimated: YES];[0;1;32m                 ^[0mIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:1:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch:4:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h:27:In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h:24:In file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m      method 'dismissModalViewControllerAnimated:' declared here[0m- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...[0;1;32m^[0m6 warnings generated.6(36%IDEClangDiagnosticActivityLogMessage2@24"Unused variable 'custom'-406444716#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^216#18#216#18#5487#0#19"Unused Entity Issue--2@72"Instance method '-objetForKey:' not found (return type defaults to 'id')-406444716#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^272#10#272#10#7130#0#14"Semantic Issue1(3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^272#10#272#21#7130#0#-2@53"Local declaration of 'reader' hides instance variable-406444716#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^294#5#294#5#7952#0#14"Semantic Issue--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-406444716#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-406444716#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@192"file:///Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^294#12#294#12#7959#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-406444716#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-406444716#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@192"file:///Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^308#12#308#12#8413#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-406444716#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-406444716#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@192"file:///Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^325#10#325#10#8971#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^3822"[1mCompileC[0m build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o [1mClasses/TibarModule.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/include -I/Users/paper/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include -I/Users/paper/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator -include /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch -MMD -MT dependencies -MF /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.d --serialize-diagnostics /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.dia -c /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModule.o36"1859F9DC-6560-40FC-B79C-FCB7C03C5121-
+bB724D783-FA6E-48DF-AEB2-881672241FA1
+
+CCompileC build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406444716.076258
+e406444716.249206
+r1
+xCompileC
+xbuild/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o
+x/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
+d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m214"[1mCompileC[0m build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o [1mClasses/TibarModuleAssets.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler419c13acda39b841^64ce3facda39b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m0000000000000000^3858"[1mCompileC[0m build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o [1mClasses/TibarModuleAssets.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/include -I/Users/paper/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include -I/Users/paper/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator -include /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch -MMD -MT dependencies -MF /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.d --serialize-diagnostics /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.dia -c /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/TibarModuleAssets.o36"BDF91276-1D28-4E2A-9918-BE15AD49B5F2-
+bB724D783-FA6E-48DF-AEB2-881672241FA1
+
+CLibtool /Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/libTibar.a normal i386
+s406444716.814613
+e406444716.894619
+r1
+xLibtool
+x/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/libTibar.a
+xnormal
+xi386
+o/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"[1mLibtool[0m build/Release-iphonesimulator/libTibar.a normal i38668"[1mLibtool[0m build/Release-iphonesimulator/libTibar.a normal i386959fd0acda39b841^5b09e5acda39b841^-594"/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib is a dynamic library, not added to the static library-0#0#1#--1514"[1mLibtool[0m build/Release-iphonesimulator/libTibar.a normal i386    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator -L/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK -filelist /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Objects-normal/i386/Tibar.LinkFileList -framework Foundation -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework QuartzCore /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib -lzbar -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/libTibar.a36"4D592FDF-2843-47B1-AFBC-5DEAC998D60D-
+bB724D783-FA6E-48DF-AEB2-881672241FA1
+
+CProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406444714.770312
+e406444716.075334
+r1
+xProcessPCH
+x/var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch
+xTibar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/zbar.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Precompile Tibar_Prefix.pch282"[1mProcessPCH[0m /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera758c5aada39b841^884a13acda39b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch0000000000000000^3842"[1mProcessPCH[0m /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator/include -I/Users/paper/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include -I/Users/paper/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources/i386 -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphonesimulator/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphonesimulator --serialize-diagnostics /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.d -c /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch -o /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-daseznarqzbkwucnmcinucuxdydi/Tibar_Prefix.pch.pch36"C31DF4E1-E064-4792-924D-EE75FBDDC056-
+bB724D783-FA6E-48DF-AEB2-881672241FA1
+
