@@ -213,7 +213,6 @@
 					}
 				}
                 
-                reader.videoQuality = UIImagePickerControllerQualityTypeHigh;
 			}
 			
 			// custom
@@ -240,6 +239,36 @@
 											  to: [code boolValue]];
 				}
 			}
+            
+            // videoQuality
+            if ([configure objectForKey:@"videoQuality"] != nil){
+                NSString *videoQuality = [TiUtils stringValue:[configure objectForKey:@"videoQuality"]];
+				NSLog([NSString stringWithFormat:@"%@ %@", @"videoQuality:", videoQuality]);
+				
+				if ([videoQuality isEqualToString:@"UIImagePickerControllerQualityTypeHigh"]) {
+					reader.videoQuality = UIImagePickerControllerQualityTypeHigh;
+				}
+				if ([videoQuality isEqualToString:@"UIImagePickerControllerQualityTypeMedium"]) {
+					reader.videoQuality = UIImagePickerControllerQualityTypeMedium;
+				}
+				if ([videoQuality isEqualToString:@"UIImagePickerControllerQualityTypeLow"]) {
+					reader.videoQuality = UIImagePickerControllerQualityTypeLow;
+				}
+                if ([videoQuality isEqualToString:@"UIImagePickerControllerQualityType640x480"]) {
+					reader.videoQuality = UIImagePickerControllerQualityType640x480;
+				}
+                if ([videoQuality isEqualToString:@"UIImagePickerControllerQualityTypeIFrame1280x720"]) {
+					reader.videoQuality = UIImagePickerControllerQualityTypeIFrame1280x720;
+				}
+                if ([videoQuality isEqualToString:@"UIImagePickerControllerQualityTypeIFrame960x540"]) {
+					reader.videoQuality = UIImagePickerControllerQualityTypeIFrame960x540;
+				}
+            }
+            
+            // customize the reader quality and zoom
+            // TODO: modulize
+            //reader.videoQuality = UIImagePickerControllerQualityTypeIFrame960x540;
+            reader.readerView.zoom = 1.0;
 		}
 		
 		// callbacks

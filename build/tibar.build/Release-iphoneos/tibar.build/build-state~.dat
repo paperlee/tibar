@@ -1,193 +1,0 @@
-Ttibar
-v6
-r1
-cCheck dependencies
-cProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-
-N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
-c000000005248F476000000000000036B
-t1380512886
-s875
-
-N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005248F477000000000000019E
-t1380512887
-s414
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m
-c0000000052899CB7000000000000240B
-t1384750263
-s9227
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
-c0000000052899C4500000000000000FA
-t1384750149
-s250
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch
-c0000000052899C450000000000000053
-t1384750149
-s83
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o
-t2
-s0
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o
-t2
-s0
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o
-t2
-s0
-
-N/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o
-t2
-s0
-
-N/var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch
-t1384750494
-s5368472
-
-N/var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch
-t1384750494
-s5368592
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies24250d1ed539b841^9294301ed539b841^---0#1#1#--18"Check dependencies36"76E53299-9085-4957-82BC-0A3F2B50A979-
-
-CCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406443295.016301
-e406443295.263729
-r0
-xCompileC
-xbuild/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o
-x/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:7:
-o/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h:7:9: fatal error: 'TiModule.h' file not found
-o#import "TiModule.h"
-o        ^
-o1 error generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m181"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o Classes/TibarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4c4f041fd539b841^be83431fd539b841^-263"In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:7:/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h:7:9: fatal error: 'TiModule.h' file not found#import "TiModule.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"'TiModule.h' file not found-406443295#18446744073709551615#0#1(2@95"In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:7:-406443295#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^6#8#6#8#176#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h0000000000000000^6#8#6#8#176#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^3651"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o Classes/TibarModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources/armv7 -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos -include /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch -MMD -MT dependencies -MF /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.d --serialize-diagnostics /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.dia -c /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModule.o36"8FC1C67E-E563-445F-B27C-C52375A2B3D3-
-bBB5C384F-87B6-40B8-908A-C403A324B128
-
-CCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406443295.016497
-e406443295.651344
-r1
-xCompileC
-xbuild/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o
-x/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
-d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m193"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o Classes/TibarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerda59041fd539b841^87bfa61fd539b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m0000000000000000^3687"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o Classes/TibarModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources/armv7 -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos -include /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch -MMD -MT dependencies -MF /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.d --serialize-diagnostics /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.dia -c /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/TibarModuleAssets.o36"9B98040F-9A6D-4AB7-AFE2-6555C32E151B-
-bBB5C384F-87B6-40B8-908A-C403A324B128
-
-CCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406443295.016763
-e406443295.328658
-r0
-xCompileC
-xbuild/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o
-x/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oIn file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:7:
-o/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h:7:9: fatal error: 'TiModule.h' file not found
-o#import "TiModule.h"
-o        ^
-o1 error generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m183"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o Classes/TibarModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbd6f041fd539b841^2426541fd539b841^-263"In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:7:/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h:7:9: fatal error: 'TiModule.h' file not found#import "TiModule.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"'TiModule.h' file not found-406443295#18446744073709551615#0#1(2@95"In file included from /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m:7:-406443295#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^6#8#6#8#176#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.h0000000000000000^6#8#6#8#176#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@77"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m0000000000000000^3658"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o Classes/TibarModule.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources/armv7s -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos -include /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch -MMD -MT dependencies -MF /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.d --serialize-diagnostics /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.dia -c /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModule.m -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModule.o36"B7115E52-4539-4EA9-9763-A154D714030D-
-bBB5C384F-87B6-40B8-908A-C403A324B128
-
-CCompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406443295.017108
-e406443295.651364
-r1
-xCompileC
-xbuild/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o
-x/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m
-d/Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m195"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o Classes/TibarModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc285041fd539b841^13d2a61fd539b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m0000000000000000^3694"CompileC build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o Classes/TibarModuleAssets.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources/armv7s -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos -include /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch -MMD -MT dependencies -MF /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.d --serialize-diagnostics /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.dia -c /Users/paper/Documents/lab/tibar-read-only/tibar/Classes/TibarModuleAssets.m -o /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/TibarModuleAssets.o36"C4DC1879-FA30-4175-822D-81AE4DAC3C5D-
-bBB5C384F-87B6-40B8-908A-C403A324B128
-
-CCreateUniversalBinary /Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/libTibar.a normal armv7\ armv7s
-r0
-
-CLibtool /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7/libTibar.a normal armv7
-r0
-
-CLibtool /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Objects-normal/armv7s/libTibar.a normal armv7s
-r0
-
-CProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406443294.192656
-e406443295.015632
-r1
-xProcessPCH
-x/var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch
-xTibar_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/zbar.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Precompile Tibar_Prefix.pch275"ProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf88b311ed539b841^4304041fd539b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch0000000000000000^3703"ProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources/armv7 -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos --serialize-diagnostics /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.d -c /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch -o /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-advmvkunyxlphmgqicztyfhtvkjj/Tibar_Prefix.pch.pch36"008A2FF2-8528-48E5-BD36-788C8480418F-
-bBB5C384F-87B6-40B8-908A-C403A324B128
-
-CProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406443294.192956
-e406443295.001206
-r1
-xProcessPCH
-x/var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch
-xTibar_Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/zbar.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
-d/Users/paper/Documents/lab/tibar-read-only/tibar/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Precompile Tibar_Prefix.pch276"ProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler658a311ed539b841^be50001fd539b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch0000000000000000^3706"ProcessPCH /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch Tibar_Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paper/Documents/lab/tibar-read-only/tibar    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327/bin:/Users/paper/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/paper/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/paper/.rvm/bin:/Users/paper/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-generated-files.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-own-target-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-all-target-headers.hmap -iquote /Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/Tibar-project-headers.hmap -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include -I/Library/Application\ Support/Titanium/mobilesdk/osx/1.5.1/iphone/include/TiCore -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources/armv7s -I/Users/paper/Documents/lab/tibar-read-only/tibar/build/tibar.build/Release-iphoneos/tibar.build/DerivedSources -F/Users/paper/Documents/lab/tibar-read-only/tibar/build/Release-iphoneos --serialize-diagnostics /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.d -c /Users/paper/Documents/lab/tibar-read-only/tibar/Tibar_Prefix.pch -o /var/folders/hy/wklc8y4s6mn4f9dmd2ltz8r80000gp/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/Tibar_Prefix-eitauajzpseotbechzhwtxvdfpef/Tibar_Prefix.pch.pch36"D5021A75-7AF3-4FE6-9590-B8833DB6CD10-
-bBB5C384F-87B6-40B8-908A-C403A324B128
-
