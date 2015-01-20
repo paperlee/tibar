@@ -265,6 +265,12 @@
 				}
             }
             
+            CGRect screenRect = [[UIScreen mainScreen] bounds];
+            
+            UIImageView *hintView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"scanner_hint.png"]];
+            hintView.center = CGPointMake(screenRect.size.width/2, (screenRect.size.height-64)/2);
+            reader.cameraOverlayView = hintView;
+            
             // customize the reader quality and zoom
             // TODO: modulize
             //reader.videoQuality = UIImagePickerControllerQualityTypeIFrame960x540;
