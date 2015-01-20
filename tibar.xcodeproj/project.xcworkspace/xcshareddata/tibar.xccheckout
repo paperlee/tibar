@@ -10,29 +10,29 @@
 	<string>tibar</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>CDA47AFE-23E6-4CAD-BE39-F9B05BA659EC</key>
-		<string>ssh://github.com/paperlee/tibar.git</string>
+		<key>C76BA50F0888AA6C66DAF760981859EA2E781A69</key>
+		<string>github.com:paperlee/tibar.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>tibar.xcodeproj/project.xcworkspace</string>
+	<string>tibar.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>CDA47AFE-23E6-4CAD-BE39-F9B05BA659EC</key>
+		<key>C76BA50F0888AA6C66DAF760981859EA2E781A69</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/paperlee/tibar.git</string>
+	<string>github.com:paperlee/tibar.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CDA47AFE-23E6-4CAD-BE39-F9B05BA659EC</string>
+	<string>C76BA50F0888AA6C66DAF760981859EA2E781A69</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>CDA47AFE-23E6-4CAD-BE39-F9B05BA659EC</string>
+			<string>C76BA50F0888AA6C66DAF760981859EA2E781A69</string>
 			<key>IDESourceControlWCCName</key>
 			<string>tibar</string>
 		</dict>
