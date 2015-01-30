@@ -313,9 +313,10 @@
 	
     // get the results
     
+    id <NSFastEnumeration> results = [info objectForKey:@"ZBarReaderControllerResults"];
     
-    
-    id <NSFastEnumeration> results = [info objectForKey: ZBarReaderControllerResults];
+    // dismiss the controller (NB: dismiss from the *picker*)
+    [reader dismissViewControllerAnimated:YES completion:nil];
     
 	int quality = 0;
     ZBarSymbol *symbol = nil;
@@ -348,9 +349,7 @@
 		[dictionary setObject:symbol.typeName forKey:@"symbology"];
 		[self _fireEventToListener:@"success" withObject:dictionary listener:listener thisObject:nil];
 	}
-	
-    // dismiss the controller (NB: dismiss from the *picker*)
-    [reader dismissViewControllerAnimated:YES completion:nil];
+    
     //[reader dismissModalViewControllerAnimated: YES];
 }
 
